@@ -1,0 +1,39 @@
+.card {
+    margin: 15rem 30rem 0rem 30rem; 
+    width: 50rem;
+    background: rgb(123,74,185);
+background: linear-gradient(357deg, rgba(123,74,185,1) 4%, rgba(186,126,227,1) 8%, rgba(29,253,247,1) 50%, rgba(163,202,242,1) 100%);
+}
+.roman-result {
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container {
+    padding-top: 1rem;
+}
+.btn {
+	background-color:#7892c2;
+	border-radius:10px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:3px 10px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+    margin-left: 1rem;
+}
+.btn:hover {
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+body {
+    background: rgb(127,86,189);
+background: radial-gradient(circle, rgba(127,86,189,1) 0%, rgba(123,74,185,1) 0%, rgba(209,241,242,1) 0%, rgba(185,255,253,1) 50%, rgba(192,221,250,1) 100%);
+}
+    
